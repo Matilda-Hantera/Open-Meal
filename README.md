@@ -6,13 +6,13 @@ Site based on the [jekyll-docs-template](http://bruth.github.io/jekyll-docs-temp
 
 View specification in [Swagger editor](https://editor.swagger.io/?url=https://raw.githubusercontent.com/Sambruk/Open-Meal/main/OpenAPI-Specification.yml).
 
-# Matilda Foodtech version (contains additions to specification)
-
-View specification in [Swagger editor](https://editor.swagger.io/?url=https://raw.githubusercontent.com/Matilda-Hantera/Open-Meal/main/OpenAPI-Specification.yml).
-
 ## Data Provider
 
 View the specification for the dataprovider endpoint in [Swagger editor](https://editor.swagger.io/?url=https://raw.githubusercontent.com/Sambruk/Open-Meal/main/OpenAPI-Specification-DataProviders.yml).
+
+#### Matilda Foodtech version (contains additions to specification)
+
+View specification in [Swagger editor](https://editor.swagger.io/?url=https://raw.githubusercontent.com/Matilda-Hantera/Open-Meal/main/OpenAPI-Specification.yml).
 
 ### Data Provider Endpoint
 
